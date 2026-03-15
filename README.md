@@ -5,15 +5,30 @@ I work with HTML, CSS, JS, JAVA, Python, PHP, SQL, and systems programming langu
 Most of my projects involve backend development, Web-apps, AI tooling, automation, and financial/trading systems.
 
 Always experimenting, building, and improving.
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+## 🌐 Web Development
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+
+---
+
+## ⚙️ Backend & Programming
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
 ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
 
+---
+
+## 🖥 Systems Programming
+
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+
+---
 ## Interests
 
 AI assistants • Automation • Trading systems • Backend engineering • Web development
