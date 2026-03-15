@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Stranger;Web+Developer;HTML+CSS+JavaScript+Bootstrap;Backend+Developer;Automation+Builder)
+
 I am developer focused on building practical systems and automation tools.
 
 I work with HTML, CSS, JS, JAVA, Python, PHP, SQL, and systems programming languages like C/C++ and Rust. 
