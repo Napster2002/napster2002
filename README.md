@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Stranger;Web+Developer;HTML+CSS+JavaScript+Bootstrap;Backend+Developer;Automation+Builder)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Stranger;Web+Developer;HTML+CSS+JavaScript+Bootstrap;Backend+Developer;Custom+Solana+Project;Automation+Builder)
 
 
 
@@ -34,7 +34,7 @@ Always experimenting, building, and improving.
 ---
 ## Interests
 
-AI assistants • Automation • Trading systems • Backend engineering • Web development
+AI assistants • Automation • Custom Solana Project • Backend engineering • Web development
 
 ## GitHub Stats
 
